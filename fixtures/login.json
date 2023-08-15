@@ -1,0 +1,18 @@
+{
+    "url" : {
+        "login": "/web/login",
+        "dashboard": "/web#action=106&active_id=mailbox_inbox&cids=1&menu_id=83"
+    },
+    
+    "credentials" : {
+        "invalidEmail": "abhi@bajra.com",
+        "invalidPassword": "1234",
+        "email": "abhishek.sakhakarmi@bajratechnologies.com",
+        "password": "BajraMattermost@16",
+        "username" : "Abhishek Sakhakarmi"
+    },
+    
+    "alertmessage" : {
+        "alertmessage": "Please fill out this field."
+    }
+}
